@@ -1,0 +1,12 @@
+{
+  "reference_source": "static",
+  "database_type": "postgres",
+  "database_url": "",
+  "vector_db": "chroma",
+  "redis_enabled": false,
+  "google_auth_enabled": false,
+  "openai_api_enabled": false,
+  "ollama_base_url": "http://ollama:11434",
+  "webui_port": 3000,
+  "additional_env_vars": {}
+}

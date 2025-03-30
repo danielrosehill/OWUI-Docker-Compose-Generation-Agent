@@ -1,0 +1,3 @@
+[submodule "repo-docs/open-webui-docs"]
+	path = repo-docs/open-webui-docs
+	url = https://github.com/open-webui/docs
